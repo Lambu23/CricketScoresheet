@@ -1,0 +1,5 @@
+Import given database .sql file in a new database in phpmyadmin
+Store given folder in folder from where localhost can open the file
+Open browser and run address localhost/Project
+If you want to view scoresheet, enter desired match id 
+if you want to add a new match log in as an admin.
